@@ -3,10 +3,10 @@
   xmlns       = "http://www.w3.org/ns/widgets"
   xmlns:gap   = "http://phonegap.com/ns/1.0"
   id          = "com.storemobilizer.a1officeproducts.com"
-  version     = "15.05.28"
-  versionCode = "150528"
+  version     = "15.05.29"
+  versionCode = "150529"
 >
-  <name>Business Office Equipment</name>
+  <name>Business Office Equipmenthot</name>
   <author
     href="http://storemobilizer.com"
     email="info@storemobilizer.com">StoreMobilizer
